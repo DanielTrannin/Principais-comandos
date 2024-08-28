@@ -12,14 +12,19 @@ body
 
 h1
 {   
-    background-image: linear-gradient(270deg, yellow, red );
-    background-color: aqua;
-    color: black;
+    color: blue;
     font-size: 30pt;
     font-family:Arial;
     text-align: center;
 }
 
+h2
+{   
+    color: red;
+    font-size: 20pt;
+    font-family: Arial;
+    text-align: center;
+}
 C1
 {   
     background-image: linear-gradient(270deg, yellow, red );
